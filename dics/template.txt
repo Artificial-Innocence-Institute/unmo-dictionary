@@ -1,0 +1,13 @@
+1	ほかに%noun%か言えないんですか
+1	%noun%はさっき言いました
+1	%noun%のことを言ってください
+1	%noun%はやめましょう
+1	%noun%について聞いています
+1	%noun%ですね
+1	%noun%
+1	%noun%が言っています
+3	ある程度%noun%済みの%noun%が%noun%ですね
+2	%noun%は%noun%ですか？
+2	%noun%が%noun%ですか？
+2	%noun%が%noun%かな
+2	%noun%も%noun%ですよ
