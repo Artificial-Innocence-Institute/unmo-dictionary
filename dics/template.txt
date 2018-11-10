@@ -493,6 +493,13 @@
 1	%noun%はたいへんでしたな
 1	%noun%が？
 1	%noun%はどうも
+1	%noun%のこと？
+1	%noun%じゃないの？
+1	%noun%は見てみたい
+1	%noun%が高い方
+1	%noun%中？
+1	そのままの%noun%。
+1	%noun%でもない！
 3	ある程度%noun%済みの%noun%が%noun%ですね
 3	そうか、%noun%するには%noun%が%noun%だった。
 3	%noun%%noun%%noun%1184 さん、いらっしゃいませ！
@@ -950,6 +957,7 @@
 3	%noun%の内%noun%の中（%noun%
 3	某%noun%？　%noun%の%noun%？
 3	できれば、%noun%%noun%まで行くと%noun%。
+3	%noun%%noun%って%noun%？
 2	%noun%は%noun%ですか？
 2	%noun%が%noun%ですか？
 2	%noun%が%noun%かな
@@ -1461,6 +1469,8 @@
 2	%noun%という%noun%をみつけた。
 2	お%noun%の%noun%？
 2	%noun%とは%noun%にならないってこと。
+2	%noun%は%noun%。
+2	いや、%noun%が%noun%しているのかと思って。
 4	はじめての%noun%%noun%%noun%なので、至らぬところがありましたらご%noun%ください
 4	%noun%的には「っはよ%noun%%noun%っ」でしょうか%noun%
 4	%noun% %noun% 10%noun%でも%noun%できたらなぁ…
